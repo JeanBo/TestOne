@@ -1,0 +1,3 @@
+
+
+select * from dummy.dummy;
